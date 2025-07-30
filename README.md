@@ -1,7 +1,7 @@
 The Shiny application has been developed to enable the creation of circle plots for the B10 cucumber genome. In the first tab, positions on contigs are translated into positions on chromosomes, while in the second tab, a circle plot is created.
 
-<img src="images/Img1,png" alt="My Image" width="400"/>
-<img src="images/Img2,png" alt="My Image" width="400"/>
+<img src="images/Img1.png" alt="My Image" width="400"/>
+<img src="images/Img2.png" alt="My Image" width="400"/>
 
 
 
